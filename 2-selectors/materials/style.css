@@ -1,0 +1,21 @@
+h1 {
+  color: darkgreen;
+}
+h2 {
+  color: darkgreen;
+}
+strong {
+  color: orange;
+}
+em {
+ color: orange; 
+}
+li > ul > li {
+  color: orange;
+}
+td {
+  color: purple;
+}
+label, legend {
+  color: darkred;
+}
